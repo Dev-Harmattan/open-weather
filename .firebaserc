@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "open-weather-9cfd5",
+    "stagging": "open-weather-9cfd5",
+    "stagging 2": "open-weather-9cfd5",
+    "stagging 3": "open-weather-9cfd5",
+    "stage": "open-weather-9cfd5",
+    "stage 2": "open-weather-9cfd5",
+    "stage 3": "open-weather-9cfd5",
+    "last stage": "open-weather-9cfd5"
+  }
+}
